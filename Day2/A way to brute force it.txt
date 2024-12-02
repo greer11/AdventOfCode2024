@@ -1,0 +1,1 @@
+add all the ones that work to a list and remove from the base list
