@@ -1,5 +1,5 @@
 File = 'ChallengeData.txt'
-testFile = 'testData.txt'
+testFile = 'testDataDay2.txt'
 def mainPart1(filename):
     deltaCollection = []
     totalDelta = 0
