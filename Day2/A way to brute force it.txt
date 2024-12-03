@@ -1,0 +1,2 @@
+add all the ones that work to a list and remove from the base list,
+for the ones that fail, remove that index and add to another list and then try that list
